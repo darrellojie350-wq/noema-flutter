@@ -1,0 +1,12 @@
+{
+  "name": "NOEMA",
+  "short_name": "NOEMA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "description": "NOEMA — autonomous AI-analytics that explains why numbers moved.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
