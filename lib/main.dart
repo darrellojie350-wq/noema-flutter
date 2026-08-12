@@ -67,11 +67,11 @@ class _NoemaHomeState extends State<NoemaHome> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              const Row(
+              Row(
                 children: [
                   Icon(Icons.circle, size: 22, color: accent),
-                  SizedBox(width: 10),
-                  Text('NOEMA', style: TextStyle(fontWeight: FontWeight.w700, letterSpacing: 3)),
+                  const SizedBox(width: 10),
+                  const Text('NOEMA', style: TextStyle(fontWeight: FontWeight.w700, letterSpacing: 3)),
                 ],
               ),
               const SizedBox(height: 48),
